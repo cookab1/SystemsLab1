@@ -1,4 +1,4 @@
 break explode_bomb
-break bomb.c:89
+break bomb.c:95
 r input.txt
 
